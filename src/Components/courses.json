@@ -1,0 +1,34 @@
+{
+    "courses":[
+        {
+            "name":"MERN",
+            "body":"MERN is the acronym for MongoDB, Express JS, React JS and Node JS. The MERN stack is a combination of the above technologies, all based on JavaScript, used to build advanced web applications. It is an open source full stack development framework ",
+            "imgsrc":"https://tutsnode.com/wp-content/uploads/2021/02/Practical-Guide-to-learn-MERN-Stack-Version-01.jpg"
+        },
+        {
+            "name":"MEAN",
+            "body":"The MEAN stack is JavaScript-based framework for developing web applications. MEAN is named after MongoDB, Express, Angular, and Node, the four key technologies that make up the layers of the stack.",
+            "imgsrc":"https://miro.medium.com/max/1140/0*o3yPSaBJ-HxcyMTz.jpg"
+        },
+        {
+            "name":"Python",
+            "body":"Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. ",
+            "imgsrc":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/480px-Python-logo-notext.svg.png"
+        },
+        {
+            "name":"C++",
+            "body":"C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes",
+            "imgsrc":"https://res.cloudinary.com/practicaldev/image/fetch/s--6bJ-sMxx--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/h2917prj7ldo0ow5x5ih.png"
+        },
+        {
+            "name":"Android development",
+            "body":"Android software development is the process by which applications are created for devices running the Android operating system. Google states that",
+            "imgsrc":"https://i0.wp.com/opensourceforu.com/wp-content/uploads/2018/05/Android-app-development.jpg?fit=1987%2C1088&ssl=1"
+        },
+        {
+            "name":"Java",
+            "body":"Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+            "imgsrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiO-s1uwf00LrqUmILdiyoPjDM8JMpDCrJpg&usqp=CAU"
+        }
+    ]
+}
